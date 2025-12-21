@@ -1,7 +1,9 @@
 # Realizar Login 
 
-Atores: Professores e Alunos 
+Atores: Professores e Alunos  
+
 Pré-condições: O ator já deve estar cadastrado no sistema (existir no Banco de Dados)
+
 Pós-condições: O ator é autenticado e redirecionado para a tela inicial correspondente ao seu perfil (Menu de Aluno ou Menu de Professor)
 
 ## Fluxo Principal:
