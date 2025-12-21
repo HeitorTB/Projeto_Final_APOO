@@ -1,7 +1,9 @@
 # Criar Metas
 
 Atores: Aluno. 
+
 Pré-condições: O Aluno deve estar logado. Devem existir disciplinas cadastradas no sistema.
+
 Pós-condições: Uma nova linha é criada na tabela Meta no banco de dados, associada ao ID do aluno logado.
 
 ## Fluxo Principal:
