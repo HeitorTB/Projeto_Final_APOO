@@ -16,7 +16,7 @@ Pós-condições: Uma nova linha é criada na tabela Meta no banco de dados, ass
 7. O sistema salva a nova meta com status = 0 (Não iniciada) e vincula ao id_aluno e id_disciplina.
 8. O sistema exibe mensagem de sucesso.
 
-## Fluxo Alternativo (Usuário não encontrado):
+## Fluxo Alternativo:
 1. Se não houver disciplinas cadastradas para selecionar, o sistema alerta "Necessário cadastrar disciplinas antes de criar metas".
 
 ## Exceções 
