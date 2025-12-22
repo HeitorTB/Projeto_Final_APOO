@@ -16,7 +16,7 @@ Pós-condições: Um novo registro é criado na tabela Material, contendo o ID d
 7. O sistema confirma a publicação.
 
 ## Exceções 
-1. Campos Vazios: O sistema impede a gravação se "Título" for vazio.
+1. Campos Vazios: O sistema impede a gravação se "Título" for vazio, o sistema exibe "Campos vazios".
 
 
 
