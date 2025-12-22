@@ -19,7 +19,7 @@ Pós-condições: O ator é autenticado e redirecionado para a tela inicial corr
 
 ## Exceções 
 1. Senha Incorreta: No passo 5, se a senha não bater, o sistema exibe "Senha inválida" e solicita nova tentativa.
-2. Erro de Conexão: Se o banco de dados não estiver acessível, o sistema exibe erro técnico.
+2. Erro de Conexão: Se o banco de dados não estiver acessível, o sistema exibe "Erro de Conexão".
 
 
 
