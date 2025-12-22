@@ -20,7 +20,7 @@ Pós-condições: Uma nova linha é criada na tabela Meta no banco de dados, ass
 1. Se não houver disciplinas cadastradas para selecionar, o sistema alerta "Necessário cadastrar disciplinas antes de criar metas".
 
 ## Exceções 
-1. Dados Inválidos: Se a Data Limite for anterior à data atual, o sistema exibe erro de validação.
+1. Dados Inválidos: Se a Data Limite for anterior à data atual, o sistema exibe "Dados inválidos"
 
 
 
